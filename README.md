@@ -1,0 +1,1 @@
+# OpenAI for Next.js
